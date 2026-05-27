@@ -102,6 +102,10 @@ This work applies LLM-driven program synthesis to manage real-time workload fluc
 **Authors:** Thomas Bömer et al. (2026)
 This paper extends LLM heuristic design to tightly coupled, multi-part optimization problems. It introduces and evaluates sequential, iterative, and integrated evolutionary coordination strategies, demonstrating that decomposition-based evolution provides more stable convergence for interdependent subproblems.
 
+### [ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution](https://arxiv.org/abs/2603.02510)
+**Authors:** Liu Yang et al. (2026)
+This framework is designed to synthesize high-performance parallel algorithms for complex, irregular data structures. By combining domain-tuned models, a specialized dataset, and an evolutionary coding agent that iteratively repairs code using feedback from compilers, dynamic race detectors, and performance profilers, ParEVO achieves massive execution speedups that match or outperform state-of-the-art expert human baselines.
+
 ## Analysis & Benchmarking
 
 ### [What Do Evolutionary Coding Agents Evolve?](https://arxiv.org/abs/2605.20086)
