@@ -12,6 +12,12 @@ This paper introduces the ReAct prompting framework, which allows LLMs to interl
 **Authors:** Noah Shinn et al. (2023)
 This research demonstrates how agents can reflect on task feedback and execution errors to maintain a linguistic episodic memory. This self-reflection loop is a primary mechanism for iterative code debugging and evolution.
 
+## Knowledge Representation & Scientific Reasoning
+
+### [Higher-Order Knowledge Representations for Agentic Scientific Reasoning](https://arxiv.org/abs/2601.04878)
+**Authors:** Isabella A. Stewart & Markus J. Buehler (2026)
+This work introduces a hypergraph-based knowledge representation framework to enhance agentic scientific reasoning. By explicitly encoding multi-entity relationships and providing agents with hypergraph traversal tools, the system avoids the limitations of traditional pairwise knowledge graphs. This enables a "teacherless" reasoning system capable of bridging semantically distant concepts to generate grounded mechanistic hypotheses for novel scientific discoveries.
+
 ## LLM-Driven Algorithm Discovery
 
 ### [Mathematical discoveries from program search with large language models (FunSearch)](https://www.nature.com/articles/s41586-023-06924-6)
